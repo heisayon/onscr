@@ -66,7 +66,7 @@ const enter = () => {
   display.focus();
 };
 
-//hiding keyboard functionality
+//hiding keyboard functinality
 function hidesoftkeyboard() {
   display.blur();
 }
