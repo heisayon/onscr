@@ -1,5 +1,4 @@
 ## Onscreen Keyboard
 
-I tried making an onscreenkeyboard with Javascript.
+This is an on-screen keyboard created with vanilla Javascript.
 
-Though it's without style and looks rusty.
