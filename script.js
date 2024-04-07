@@ -65,3 +65,10 @@ const enter = () => {
   display.value += "\n";
   display.focus();
 };
+
+//hiding keyboard functionality
+function hidesoftkeyboard() {
+  display.blur();
+}
+hidesoftkeyboard();
+display.addEventListener("focus", hidesoftkeyboard);
